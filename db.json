@@ -1,10 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 2,
-      "title": "hello"
-    }
-  ],
   "get_number": {
     "phone_number": undetect_able
   }
